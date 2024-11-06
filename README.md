@@ -1,4 +1,4 @@
-# Fitting Poisson  distribution
+# EX 02 : Fitting Poisson  distribution
 # DATE : 
 # Aim : 
 
